@@ -1,0 +1,39 @@
+.account-list {
+  margin-bottom: 20px;
+}
+
+.account-list h2 {
+  margin-top: 0;
+}
+
+.account-list ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.account-list li {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.account-list li span {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.account-list li button {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.account-list li button:hover {
+  background-color: #3e8e41;
+}

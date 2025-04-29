@@ -1,0 +1,13 @@
+/*add more css for the index.html*/
+
+body{
+font-family: roboto;
+}
+
+.logo{
+
+width: 5em;
+border-radius: 2%;
+padding: 5px;
+
+}
